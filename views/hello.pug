@@ -1,0 +1,9 @@
+extends layout
+
+
+block content
+    .wrapper
+        - const lol = 1+1
+        p.hello #{lol}Pizza please! for #{osw.name}
+        span my dog is #{dog}
+    img(src="dog.jpg", alt=`${dog}`)
