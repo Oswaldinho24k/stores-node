@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24fdc09c-f856-4b09-840e-35d7856e4e2d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controllers/storeController.js" afterPath="$PROJECT_DIR$/controllers/storeController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/Store.js" afterPath="$PROJECT_DIR$/models/Store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/dist/App.bundle.js" afterPath="$PROJECT_DIR$/public/dist/App.bundle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/dist/App.bundle.js.map" afterPath="$PROJECT_DIR$/public/dist/App.bundle.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/delicious-app.js" afterPath="$PROJECT_DIR$/public/javascripts/delicious-app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variables.env" afterPath="$PROJECT_DIR$/variables.env" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/mixins/_card.pug" afterPath="$PROJECT_DIR$/views/mixins/_card.pug" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/mixins/_storeForm.pug" afterPath="$PROJECT_DIR$/views/mixins/_storeForm.pug" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -75,16 +70,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store.pug" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/store.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Store.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/Store.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="319">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -118,8 +103,18 @@
       <file leaf-file-name="variables.env" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/variables.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="120">
+              <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -154,13 +149,15 @@
         <option value="$PROJECT_DIR$/views/editStore.pug" />
         <option value="$PROJECT_DIR$/public/javascripts/delicious-app.js" />
         <option value="$PROJECT_DIR$/public/javascripts/modules/autocomplete.js" />
-        <option value="$PROJECT_DIR$/variables.env" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/views/mixins/_storeForm.pug" />
         <option value="$PROJECT_DIR$/controllers/storeController.js" />
         <option value="$PROJECT_DIR$/views/store.pug" />
         <option value="$PROJECT_DIR$/views/mixins/_card.pug" />
         <option value="$PROJECT_DIR$/models/Store.js" />
+        <option value="$PROJECT_DIR$/variables.env" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -175,10 +172,10 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="885" />
-    <option name="y" value="238" />
-    <option name="width" value="985" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="814" />
+    <option name="y" value="104" />
+    <option name="width" value="860" />
     <option name="height" value="976" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -257,18 +254,18 @@
       <updated>1512760173852</updated>
       <workItem from="1512760176948" duration="6000" />
       <workItem from="1512760195670" duration="13212000" />
-      <workItem from="1513014711552" duration="17596000" />
+      <workItem from="1513014711552" duration="18541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30814000" />
+    <option name="totallyTimeSpent" value="31759000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="885" y="238" width="985" height="976" extended-state="1" />
+    <frame x="814" y="104" width="860" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19709544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22646007" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -595,14 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/variables.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/helpers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -627,14 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/storeController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -655,6 +636,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="69" lean-forward="false" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variables.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding />
         </state>
       </provider>
