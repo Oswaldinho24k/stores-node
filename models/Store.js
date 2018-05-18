@@ -12,7 +12,7 @@ const storeSchema = new mongoose.Schema({
     description:{
         type:String,
         tream:true
-    },
+    }, 
     tags: [String],
     created:{
         type:Date,
